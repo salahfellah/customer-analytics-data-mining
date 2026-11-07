@@ -1,0 +1,28 @@
+# Données
+pandas==3.1.1
+numpy==2.5.4
+openpyxl==3.1.5
+pyarrow==26.0.1
+
+# Visualisation
+matplotlib==3.11.2
+seaborn==0.13.2
+plotly==7.1.0
+networkx==3.7
+
+# Modélisation
+scipy==1.18.1
+scikit-learn==1.9.1
+mlxtend==0.25.0
+xgboost==3.4.1
+imbalanced-learn==0.14.2
+optuna==5.0.0
+shap==0.54.1
+joblib==1.6.0
+
+# Outils
+jupyter==1.1.1
+nbconvert==7.17.2
+ipykernel==7.4.0
+pytest==9.2.0
+ruff==0.17.4
